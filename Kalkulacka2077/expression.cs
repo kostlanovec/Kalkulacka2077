@@ -9,7 +9,13 @@ namespace Kalkulacka2077
         private readonly Dictionary<string, IOperation> _operations = new ();
         private readonly Dictionary<string, IFunction> _functions = new ();
 
-        public string Content { get; }
+        private string _content;
+
+        public string Content
+        {
+            get { return _content; }
+            set { _content = value?.TrimEnd('='); }
+        }
 
         public Expression(string content)
         {
@@ -117,7 +123,8 @@ namespace Kalkulacka2077
             currentToken = "";
             isValidNumber = false;
         }
-    }
+
+        }
 
     if (!string.IsNullOrWhiteSpace(currentToken))
     {
