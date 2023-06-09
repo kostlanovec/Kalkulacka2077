@@ -1,0 +1,15 @@
+/home/kostik/RiderProjects/Kalkulacka2077/Kalkulacka2077/obj/Debug/net7.0/Kalkulacka2077.csproj.AssemblyReference.cache
+/home/kostik/RiderProjects/Kalkulacka2077/Kalkulacka2077/obj/Debug/net7.0/Kalkulacka2077.GeneratedMSBuildEditorConfig.editorconfig
+/home/kostik/RiderProjects/Kalkulacka2077/Kalkulacka2077/obj/Debug/net7.0/Kalkulacka2077.AssemblyInfoInputs.cache
+/home/kostik/RiderProjects/Kalkulacka2077/Kalkulacka2077/obj/Debug/net7.0/Kalkulacka2077.AssemblyInfo.cs
+/home/kostik/RiderProjects/Kalkulacka2077/Kalkulacka2077/obj/Debug/net7.0/Kalkulacka2077.csproj.CoreCompileInputs.cache
+/home/kostik/RiderProjects/Kalkulacka2077/Kalkulacka2077/bin/Debug/net7.0/Kalkulacka2077
+/home/kostik/RiderProjects/Kalkulacka2077/Kalkulacka2077/bin/Debug/net7.0/Kalkulacka2077.deps.json
+/home/kostik/RiderProjects/Kalkulacka2077/Kalkulacka2077/bin/Debug/net7.0/Kalkulacka2077.runtimeconfig.json
+/home/kostik/RiderProjects/Kalkulacka2077/Kalkulacka2077/bin/Debug/net7.0/Kalkulacka2077.dll
+/home/kostik/RiderProjects/Kalkulacka2077/Kalkulacka2077/bin/Debug/net7.0/Kalkulacka2077.pdb
+/home/kostik/RiderProjects/Kalkulacka2077/Kalkulacka2077/obj/Debug/net7.0/Kalkulacka2077.dll
+/home/kostik/RiderProjects/Kalkulacka2077/Kalkulacka2077/obj/Debug/net7.0/refint/Kalkulacka2077.dll
+/home/kostik/RiderProjects/Kalkulacka2077/Kalkulacka2077/obj/Debug/net7.0/Kalkulacka2077.pdb
+/home/kostik/RiderProjects/Kalkulacka2077/Kalkulacka2077/obj/Debug/net7.0/Kalkulacka2077.genruntimeconfig.cache
+/home/kostik/RiderProjects/Kalkulacka2077/Kalkulacka2077/obj/Debug/net7.0/ref/Kalkulacka2077.dll
