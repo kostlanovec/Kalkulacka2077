@@ -38,6 +38,7 @@ namespace Kalkulacka2077
         {
             //přidávání funkcí
             RegisterFunction("Sin", new Sinus());
+            RegisterFunction("Cos", new Cosinus());
         }
 
         public void RegisterOperation(string symbol, IOperation operation)
@@ -126,16 +127,16 @@ namespace Kalkulacka2077
 
         }
 
-    if (!string.IsNullOrWhiteSpace(currentToken))
-    {
-        tokens.Add(currentToken);
-    }
+        if (!string.IsNullOrWhiteSpace(currentToken))
+        {
+            tokens.Add(currentToken);
+        }
 
-    if (parenCount != 0)
-    {
-        throw new InvalidOperationException("Mismatched parentheses.");
-    }
-    return tokens;
+        if (parenCount != 0)
+        {
+            throw new InvalidOperationException("Mismatched parentheses.");
+        }
+        return tokens;
 }
         private bool IsOperator(char character)
         {
